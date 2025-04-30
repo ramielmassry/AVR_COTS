@@ -31,9 +31,3 @@
     - String handling
   - Aims to reduce code redundancy and enhance portability.
 
-## 🚀 Getting Started
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/ramielmassry/AVR_COTS.git
